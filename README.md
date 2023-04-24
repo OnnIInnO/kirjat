@@ -1,3 +1,21 @@
+# Alkujutut
+
+Eka pitää asentaa node.js koneelle jos se ei oo jo https://nodejs.org/en/download
+
+Sen jälkeen tän voi cloonata ton omalle koneelle https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+sitku kloonattu johonkin niin esim vs terminaalilla tekee cd kirjat niin pääsee oikeeseen folderiin
+
+sitten kirjotta: npm install ja sitten se lataa koneelle. Sit sen jälkeen alla olevilla ohjeilla sen voi laittaa päälle jne.
+
+Sitkun haluaa omia muutoksia pushata niin voi kirjoittaa.
+
+git add . // tää lisää kaikki nykyiset tiedostot git
+
+git commit -m "jokin viesti mikä selittää tähän"
+
+git push // tää työntää tohon repositoryyn nää uudet muutokset
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
