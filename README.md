@@ -1,3 +1,5 @@
+# This code is just for a group school project, very simple project and not connected to other stuff I'm doing
+
 # Alkujutut
 
 Eka pitää asentaa node.js koneelle jos se ei oo jo https://nodejs.org/en/download
