@@ -1,38 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
 .App {
+  background-color: #FAF9F8;
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #020111;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+}
+h1{
+  font-size:2.5em;
+  font-family: 'Source Serif Pro', sans-serif;
 }
 
-.App-link {
-  color: #61dafb;
+h2{
+  font-family: 'Source Serif Pro', sans-serif;
+}
+h3{
+  font-family: 'Source Serif Pro', sans-serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: calc(7px + 2vmin);
+}
+
+
+.HomePage{
+  padding: 10%;
+  line-height: 200%;
 }
