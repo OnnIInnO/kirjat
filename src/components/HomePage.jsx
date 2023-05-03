@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Vid from './Vid';
 function HomePage() {
 
         return (
@@ -19,6 +19,9 @@ Lukuiloa toivottaen,
 <p>
 Lukukeskus ja Kirjastot
 </p>
+            <div>
+                <Vid />
+            </div>
 
             </div>
     );
