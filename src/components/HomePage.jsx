@@ -1,5 +1,6 @@
 import React from 'react';
 import Vid from './Vid';
+
 function HomePage() {
 
         return (

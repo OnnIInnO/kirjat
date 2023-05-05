@@ -1,4 +1,5 @@
 import React from 'react';
+import ActualTest from './ActualTest';
 
 function Testi() {
 
@@ -12,8 +13,8 @@ alkuun. Nautitko selkäpiitä karmivista trillereistä vai kenties
 rakkausromaaneista? Tällä testillä pystyt selvittämään, mikä
 kirjagenre sopii parhaiten omaan makuusi.</p>
                 <br />
-                <h1>Testi tulee tähän</h1>
-
+                <br />
+                <ActualTest />
 
             </div>
     );

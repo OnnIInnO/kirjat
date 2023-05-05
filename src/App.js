@@ -6,6 +6,7 @@ import Testi from "./components/Testi";
 import Tiede from "./components/Tiede";
 import KirjaHaaste from "./components/KirjaHaaste";
 import Blogi from "./components/Blogi";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path="challenge" element={<Challenge />} />
       </Routes>
       <div className="App-routes"></div>
+      <Footer />
     </div>
   );
 }
