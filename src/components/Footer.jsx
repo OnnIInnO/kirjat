@@ -4,7 +4,6 @@ import {
     faFacebook,
     faInstagram,
   } from "@fortawesome/free-brands-svg-icons";
-import lukukeskus from "../images/lukukeskus.jpg"
 
 function Footer() {
         return (
