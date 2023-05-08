@@ -4,7 +4,6 @@ import CustomNavbar from "./components/CustomNavBar";
 import HomePage from "./components/HomePage";
 import Testi from "./components/Testi";
 import Tiede from "./components/Tiede";
-import KirjaHaaste from "./components/KirjaHaaste";
 import Blogi from "./components/Blogi";
 import Footer from "./components/Footer";
 
@@ -12,14 +11,14 @@ function App() {
   return (
     <div className="App">
       <CustomNavbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="test" element={<TestPage />} />
-        <Route path="blog" element={<Blog />} />
-        <Route path="science" element={<Science />} />
-        <Route path="challenge" element={<Challenge />} />
-      </Routes>
-      <div className="App-routes"></div>
+      <div className="App-routes">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="test" element={<TestPage />} />
+          <Route path="blog" element={<Blog />} />
+          <Route path="science" element={<Science />} />
+        </Routes>
+      </div>
       <Footer />
     </div>
   );
@@ -49,13 +48,6 @@ function Science() {
   return (
     <div id="Science">
       <Tiede />
-    </div>
-  );
-}
-function Challenge() {
-  return (
-    <div id="Challenge">
-      <KirjaHaaste />
     </div>
   );
 }

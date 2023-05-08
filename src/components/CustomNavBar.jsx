@@ -6,7 +6,7 @@ function CustomNavbar() {
 
   return (
     <div className = "NavBar">
-    <Navbar bg="light" expand="lg">
+    <Navbar variant="light" expand="lg">
       <Container>
       <Navbar.Brand href="/">Home</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -15,7 +15,6 @@ function CustomNavbar() {
             <Nav.Link href="test">Testi</Nav.Link>
             <Nav.Link href="blog">Blogi</Nav.Link>
             <Nav.Link href="science">Tiede Taustalla</Nav.Link>
-            <Nav.Link href="challenge">KirjaHaaste</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
