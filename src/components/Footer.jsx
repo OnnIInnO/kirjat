@@ -11,7 +11,7 @@ function Footer() {
                 {/* <h2>Follow us on:</h2> */}
                 <a href = "https://www.facebook.com/"
                 className="Facebook-Social">
-                    <FontAwesomeIcon icon ={faFacebook} size="4x" color ="white" />
+                    <FontAwesomeIcon className ="mx-4" icon ={faFacebook} size="4x" color ="white" />
                 </a>
                 <a href = "https://www.instagram.com/"
                 className="Instagram-Social">
