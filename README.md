@@ -1,5 +1,8 @@
 # This code is just for a group school project, very simple project and not connected to other stuff I'm doing
 
+The live version of the website is at:
+https://lively-stone-014784903.3.azurestaticapps.net/
+
 # Alkujutut
 
 Eka pitää asentaa node.js koneelle jos se ei oo jo https://nodejs.org/en/download. Pitäis löytyä jo kaikilta koneelle.
