@@ -10,7 +10,7 @@ Sen jälkeen voi cloonata tän koodin omalle koneelle commandilla :
 
 Git clone https://github.com/OnnIInnO/kirjat.git
 
-sitku kloonattu johonkin niin esim vs terminaalilla tekee :
+sitku kloonattu johonkin niin esimerkisksi vs terminaalilla tekee :
 
 cd kirjat
 
@@ -30,10 +30,8 @@ Käynnistää nettisivun ja sitä pääsee katsomaan: http://localhost:3000/
 
 Sittenkun tän jälkeen rupee tekemään omii muokkauksia niin niitä voi lisätä tohon githubiin näin:
 
-git add . // tää lisää kaikki nykyiset tiedostot git
+git add . // tää lisää kaikki nykyiset tiedostot gittiin.
 
 git commit -m "jokin viesti mikä selittää tähän"
 
 git push // tää työntää tohon repositoryyn nää uudet muutokset
-
-Jos ongelmia koodin työntämisessä niin voi laittaa mulle vaik zippinä vaan tulemaan telegrammissa :)

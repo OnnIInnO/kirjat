@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+// This function includes the test functionalities
 function ActualTest() {
 
   const [showResults, setShowResults] = useState (false);

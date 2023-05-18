@@ -1,8 +1,10 @@
 import React from 'react';
 import Vid from './Vid';
 import BookList from './BookList';
+//This is the home/landingpage
+
 function HomePage() {
-    
+
     return (
         <div className="HomePage">
                 <h1>Kuuluuko kirjat sun elämään?</h1>

@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 
+
+//this function is to allow for users to state their favourite books and showcase them in the website
 const BookList = () => {
   const [books, setBooks] = useState([]);
   const [newBooks, SetNewBooks] = useState('');
@@ -24,7 +26,6 @@ const BookList = () => {
     {books.map((task, index) => (
       <li
         key={index}
-        style={{ textDecoration: task.completed ? 'line-through' : 'none' }}
       >
         {task.kirja}
       </li>

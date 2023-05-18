@@ -1,6 +1,6 @@
 import React from 'react';
 import ActualTest from './ActualTest';
-
+//This testi part uses actualtest, this whole part is places in app.js
 function Testi() {
 
         return (

@@ -1,6 +1,6 @@
 import React from 'react';
+//This is the page that shows the science functionalities
 function Tiede() {
-
     return (
             <div className="Tiede">
       <h1>Viisi syytä lukea:</h1>

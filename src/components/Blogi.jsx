@@ -1,5 +1,6 @@
 import React from 'react';
 
+//this function includes the blog texts
 function Blogi() {
 
         return (

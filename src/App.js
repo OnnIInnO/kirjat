@@ -7,6 +7,7 @@ import Tiede from "./components/Tiede";
 import Blogi from "./components/Blogi";
 import Footer from "./components/Footer";
 
+//This is the main app including all the routing to the right parts.
 function App() {
   return (
     <div className="App">

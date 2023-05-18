@@ -1,5 +1,5 @@
 import video from "../videos/Lukemista_1.mov";
-
+//This parts just shows the video
 function Vid() {
   return (
     <div className="Vid">

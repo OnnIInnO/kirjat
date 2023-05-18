@@ -4,7 +4,7 @@ import {
     faFacebook,
     faInstagram,
   } from "@fortawesome/free-brands-svg-icons";
-
+//This is the footer at the bottom of the page to show our socials
 function Footer() {
         return (
             <div class="social-container">
