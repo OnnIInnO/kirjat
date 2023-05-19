@@ -48,7 +48,13 @@ Sosiaalinen media ja muut verkkoalustat kehittävät kuitenkin erilaista lukutai
 <h2>3. Yhdessä lukeminen vahvistaa sidettä vanhemman ja lapsen välillä</h2><br />
 <p>Yhdessä lukeminen vahvistaa yhdessäolon tunnetta ja lujittaa lapsen ja vanhemman välistä vuorovaikutusta. Vanhempi voi myös oppia lapsensa mielenkiinnonkohteista yhteisen lukuharrastuksen myötä. Yhteisen lukuharrastuksen voi aloittaa esimerkiksi päivittäisillä iltasatuhetkillä ja yhteisillä kirjastokäynneillä - pienilläkin asioilla on positiivinen vaikutus lapsen lukuharrastukseen ja -taitoon.
 </p>
-
+<br />
+<h1>Lähteet:</h1>
+<p>
+Hakulinen, T. ym., 2018. Sana hallussa. [Online] Available at: https://www.oph.fi/fi/koulutus-ja-tutkinnot/sana-hallussa[Haettu 4. toukokuu 2023].
+Hanifi, R., 2022. Lapset lukevat aiempaa vähemmän kirjoja - netissä ja somessa lukutaito määrittyy uudelleen. [Online] Available at: https://www.stat.fi/tietotrendit/artikkelit/2022/lapset-lukevat-aiempaa-vahemman-kirjoja-netissa-ja-somessa-lukutaito-maarittyy-uudelleen/?listing=simple[Haettu 8. toukokuu 2023].
+Riihimaa, N., 2020. Lukeminen kannattaa aina - poimi viisi syytä, miten se vaikuttaa terveyteesi. [Online] Available at: https://yhteishyva.fi/elama/lukeminen-kannattaa-aina-poimi-viisi-syyta-miten-s/7J7rDUl0MqjvDlTNU2FFA2[Haettu 4. toukokuu 2023].
+Lukukeskus. 5 faktaa lukemisesta. [Online] Available at: https://lukukeskus.fi/5-faktaa-lukemisesta/ [Haettu 4. toukokuu 2023]</p>
             </div>
     );
 }

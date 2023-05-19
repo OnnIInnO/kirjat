@@ -1,11 +1,15 @@
 import React from 'react';
-
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import emma from "../images/emma.png"
 //this function includes the blog texts
 function Blogi() {
 
         return (
             <div className="Blogi">
                 <h1>Emman Blogi</h1>
+                <Row>
+                <Col>
                 <br></br>
                 <h2>Moikka!</h2>
                 <p>Mun nimi on Emma ja tervetuloa seuraamaan mun elämää kirjojen ja lukemisen parissa. En ole oikea henkilö, mutta perustun dataan, jota on kerätty lapsista ja nuorista, joiden elämään kirjat eivät kuulu. Aloitin lukemisen ihan uutena harrastuksena äskettäin ja haluan avata teille muille mun uudenlaista arkea.</p>
@@ -13,6 +17,10 @@ function Blogi() {
                 </p>
                 <h3>Rakkaudella,</h3>
                 <h3>Emma</h3>
+                </Col>
+                <Col>
+                <img src={emma} alt="emma" />
+                </Col>
                 <div className='Blogi-teksti'>
                     <h1>15.3.2023</h1>
                     <h1>Uusi alku kirjojen parissa</h1>
@@ -26,6 +34,7 @@ Tällainen oli tämä viikko, saa nähdä, mitä kirjat vielä tuovat tullessaan
                     <br />
                     <h1>Rakkaudella, Emma</h1>
                 </div>
+                </Row>
                 <div className='Blogi-teksti'>
                     <h1>22.2.2023</h1>
                     <h1>Pohdintaa kavereista ja lukemisesta</h1>
